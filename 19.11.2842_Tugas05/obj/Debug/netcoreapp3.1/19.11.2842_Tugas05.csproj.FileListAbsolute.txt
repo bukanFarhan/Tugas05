@@ -1,0 +1,14 @@
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\bin\Debug\netcoreapp3.1\19.11.2842_Tugas05.exe
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\bin\Debug\netcoreapp3.1\19.11.2842_Tugas05.deps.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\bin\Debug\netcoreapp3.1\19.11.2842_Tugas05.runtimeconfig.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\bin\Debug\netcoreapp3.1\19.11.2842_Tugas05.runtimeconfig.dev.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\bin\Debug\netcoreapp3.1\19.11.2842_Tugas05.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\bin\Debug\netcoreapp3.1\19.11.2842_Tugas05.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\obj\Debug\netcoreapp3.1\19.11.2842_Tugas05.csproj.AssemblyReference.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\obj\Debug\netcoreapp3.1\19.11.2842_Tugas05.GeneratedMSBuildEditorConfig.editorconfig
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\obj\Debug\netcoreapp3.1\19.11.2842_Tugas05.AssemblyInfoInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\obj\Debug\netcoreapp3.1\19.11.2842_Tugas05.AssemblyInfo.cs
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\obj\Debug\netcoreapp3.1\19.11.2842_Tugas05.csproj.CoreCompileInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\obj\Debug\netcoreapp3.1\19.11.2842_Tugas05.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\obj\Debug\netcoreapp3.1\19.11.2842_Tugas05.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P5, Method & Constractor\19.11.2842_Tugas05\19.11.2842_Tugas05\obj\Debug\netcoreapp3.1\19.11.2842_Tugas05.genruntimeconfig.cache
